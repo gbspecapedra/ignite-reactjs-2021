@@ -1,5 +1,3 @@
 import React from "react";
+import { App } from './App'
 
-export function index() {
-  return <h1>Hello World</h1>;
-}
