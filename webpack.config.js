@@ -3,6 +3,7 @@ const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 module.exports = {
   mode: "development",
+  devtoolt: "eval-source-map", //facilita a visualização do código pelo debugger no browser
   entry: path.resolve(__dirname, "src", "index.jsx"), //file principal da aplicação
   output: {
     //file de saída com código convertido entendido pelo browser
