@@ -1,6 +1,7 @@
 const path = require("path");
 
 module.exports = {
+  mode: "development",
   entry: path.resolve(__dirname, "src", "index.jsx"), //file principal da aplicação
   output: {
     //file de saída com código convertido entendido pelo browser
