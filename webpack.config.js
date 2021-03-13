@@ -34,6 +34,11 @@ module.exports = {
         exclude: /node_modules/, //cada biblioteca deve se preocupar com seu processo de build
         use: "babel-loader", //integração entre webpack e babel: webpack identifica e babel converte;
       },
+      {
+        test: /\.css$/,
+        exclude: /node_modules/,
+        use: ["style-loader", "css-loader"],
+      },
     ],
   },
 };
