@@ -12,6 +12,10 @@ module.exports = {
   resolve: {
     extensions: [".js", ".jsx"], //arquivos lidos para funcionamento da aplicação
   },
+  devServer: {
+    //listener de alterações no código, automatiza a conversão do webpack e babel
+    contentBase: path.resolve(__dirname, "public"),
+  },
   plugins: [
     new HtmlWebpackPlugin({
       //injeta arquivo js no html, melhora o fluxo da aplicação
