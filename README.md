@@ -6,7 +6,8 @@
   <a href="#-the-journey">The Journey</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-modules">Modules</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-licence">Licence</a>
+  <a href="#-challenges">Challenges</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>
 </p>
 
 <p align="center">
@@ -32,7 +33,13 @@ Projects developed with the following technologies:
 
 ## ✨ Modules
 
-- [ReactJS Fundamentals](https://github.com/gisabernardess/ignite-reactjs/tree/main/01-github-explorer)
+1. [ReactJS Fundamentals](https://github.com/gisabernardess/ignite-reactjs/tree/main/01-github-explorer)
+
+## 🧠 Challenges
+
+Challenges to put into practice what was learned in each module:
+
+1. [to.do list](https://github.com/gisabernardess/todo-list)
 
 ## 📄 License
 
