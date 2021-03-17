@@ -33,13 +33,15 @@ Projects developed with the following technologies:
 
 ## ✨ Modules
 
-1. [ReactJS Fundamentals](https://github.com/gisabernardess/ignite-reactjs/tree/main/01-github-explorer)
+- [ReactJS Fundamentals](https://github.com/gisabernardess/ignite-reactjs/tree/main/01-github-explorer)
+- [First web application with ReactJS](https://github.com/gisabernardess/ignite-reactjs/tree/main/02-dtmoney)
 
 ## 🧠 Challenges
 
 Challenges to put into practice what was learned in each module:
 
 1. [to.do list](https://github.com/gisabernardess/todo-list)
+2. [movies list](https://github.com/gisabernardess/movies-list)
 
 ## 📄 License
 
