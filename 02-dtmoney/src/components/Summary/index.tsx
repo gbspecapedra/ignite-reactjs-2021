@@ -1,5 +1,4 @@
-import { useContext } from "react";
-import { TransactionsContext } from "../../TransactionsContext";
+import { useTransactions } from "../../hooks/useTransactions";
 
 import incomeImg from "../../assets/income.svg";
 import outcomeImg from "../../assets/outcome.svg";
@@ -9,7 +8,7 @@ import { Container } from "./styles";
 import { formatNumberToCurrency } from "../../util/number-extensions";
 
 export function Summary() {
-  const { transactions } = useContext(TransactionsContext);
+  const { transactions } = useTransactions();
 
   const { deposits, withdraws, total } = transactions.reduce(
     (acc, transaction) => {
