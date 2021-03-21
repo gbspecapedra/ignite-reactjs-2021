@@ -42,6 +42,7 @@ Challenges to put into practice what was learned in each module:
 
 1. [to.do list](https://github.com/gisabernardess/todo-list)
 2. [movies list](https://github.com/gisabernardess/movies-list)
+3. [shopping cart](https://github.com/gisabernardess/shopping-cart)
 
 ## 📄 License
 
