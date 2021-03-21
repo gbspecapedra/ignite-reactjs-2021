@@ -6,9 +6,28 @@ import outcomeImg from "../../assets/outcome.svg";
 import totalImg from "../../assets/total.svg";
 
 import { Container } from "./styles";
+import { formatNumberToCurrency } from "../../util/number-extensions";
 
 export function Summary() {
   const { transactions } = useContext(TransactionsContext);
+
+  const { deposits, withdraws, total } = transactions.reduce(
+    (acc, transaction) => {
+      if (transaction.type === "deposit") {
+        acc.deposits += transaction.amount;
+        acc.total += transaction.amount;
+      } else {
+        acc.withdraws += transaction.amount;
+        acc.total -= transaction.amount;
+      }
+      return acc;
+    },
+    {
+      deposits: 0,
+      withdraws: 0,
+      total: 0,
+    }
+  );
 
   return (
     <Container>
@@ -17,21 +36,21 @@ export function Summary() {
           <p>Entradas</p>
           <img src={incomeImg} alt="Entradas" />
         </header>
-        <strong>R$1000,00</strong>
+        <strong>{formatNumberToCurrency(deposits, "pt-BR", "BRL")}</strong>
       </div>
       <div>
         <header>
           <p>Saídas</p>
           <img src={outcomeImg} alt="Saídas" />
         </header>
-        <strong>- R$500,00</strong>
+        <strong>- {formatNumberToCurrency(withdraws, "pt-BR", "BRL")}</strong>
       </div>
       <div className="highlight-background">
         <header>
           <p>Total</p>
           <img src={totalImg} alt="Total" />
         </header>
-        <strong>R$500,00</strong>
+        <strong>{formatNumberToCurrency(total, "pt-BR", "BRL")}</strong>
       </div>
     </Container>
   );
