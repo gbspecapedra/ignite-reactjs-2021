@@ -1,5 +1,5 @@
 <h1 align="center">
-  Next.js Fundamentals
+  Next.js & JAMStack
 </h1>
 
 <br>
@@ -12,12 +12,14 @@ Finally, it is very common to develop front-end applications that are not connec
 
 ## 🚀 Technologies
 
-Projects developed with the following technologies:
+Project developed with the following technologies:
 
 - [Create Next App](https://nextjs.org/docs/api-reference/create-next-app)
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [SASS](https://sass-lang.com/)
+- [Stripe](https://stripe.com/en-br)
+- [NextAuth.js](https://next-auth.js.org/)
 
 ## ℹ️ How To Use
 

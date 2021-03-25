@@ -10,12 +10,14 @@ In this module we will create the base structure of a React application using to
 
 ## 🚀 Technologies
 
-Projects developed with the following technologies:
+Project developed with the following technologies:
 
 - [React](https://reactjs.org)
 - [Babel](https://babeljs.io/)
 - [Webpack](https://webpack.js.org/)
+- [cross-env](https://github.com/kentcdodds/cross-env)
 - [TypeScript](https://www.typescriptlang.org/)
+- [SASS](https://sass-lang.com/)
 
 ## ℹ️ How To Use
 

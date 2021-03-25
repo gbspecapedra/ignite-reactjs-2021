@@ -10,11 +10,15 @@ In this module we will build a complete web front-end application using importan
 
 ## 🚀 Technologies
 
-Projects developed with the following technologies:
+Project developed with the following technologies:
 
 - [Create React App](https://create-react-app.dev/)
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
+- [styled-components](https://styled-components.com/)
+- [polished](https://polished.js.org/)
+- [axios](https://github.com/axios/axios)
+- [MirageJS](https://miragejs.com/)
 
 ## ℹ️ How To Use
 

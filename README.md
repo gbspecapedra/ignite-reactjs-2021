@@ -26,8 +26,9 @@ An acceleration program for developers by [Rocketseat](https://rocketseat.com.br
 
 ## 🚀 Technologies
 
-Projects developed with the following technologies:
+Projects developed with the main following technologies:
 
+- [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 
@@ -35,6 +36,7 @@ Projects developed with the following technologies:
 
 - [ReactJS Fundamentals](https://github.com/gisabernardess/ignite-reactjs/tree/main/01-github-explorer)
 - [First web application with ReactJS](https://github.com/gisabernardess/ignite-reactjs/tree/main/02-dtmoney)
+- [Next.js & JAMStack](https://github.com/gisabernardess/ignite-reactjs/tree/main/03-ignews)
 
 ## 🧠 Challenges
 
@@ -43,6 +45,7 @@ Challenges to put into practice what was learned in each module:
 1. [to.do list](https://github.com/gisabernardess/todo-list)
 2. [movies list](https://github.com/gisabernardess/movies-list)
 3. [shopping cart](https://github.com/gisabernardess/shopping-cart)
+4. [refactoring](https://github.com/gisabernardess/refactoring)
 
 ## 📄 License
 
