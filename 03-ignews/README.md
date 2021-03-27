@@ -2,7 +2,10 @@
   Next.js & JAMStack
 </h1>
 
-<br>
+<p align="center">
+  <img alt="ignews" src="https://github.com/gisabernardess/ignite-reactjs/blob/main/03-ignews/.github/ignews.png">
+</p>
+
 
 ## 💬 Project
 
