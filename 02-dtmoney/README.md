@@ -2,7 +2,10 @@
   First web application with ReactJS
 </h1>
 
-<br>
+<p align="center">
+  <img alt="dtmoney" src="https://github.com/gisabernardess/ignite-reactjs/blob/main/02-dtmoney/.github/dtmoney.png">
+</p>
+
 
 ## 💬 Project
 
