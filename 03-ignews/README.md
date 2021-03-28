@@ -31,6 +31,8 @@ $ git clone https://github.com/gisabernardess/ignite-reactjs.git <br/>
 $ <span class="pl-c1">cd</span> 03-ignews <br/>
 <span class="pl-c"><span class="pl-c">#</span> Install dependencies</span>
 $ yarn <br/>
+<span class="pl-c"><span class="pl-c">#</span> Run the stripe listener</span>
+$ stripe listen --forward-to localhost:3000/api/webhooks <br/>
 <span class="pl-c"><span class="pl-c">#</span> Run the development server</span>
 $ yarn dev <br/>
 <span class="pl-c"><span class="pl-c">#</span> Navigate to http://localhost:3000</span>
