@@ -18,11 +18,11 @@
   <img alt="Github license" src="https://img.shields.io/github/license/gisabernardess/ignite-reactjs"/>
 </p>
 
-<br>
+<br/>
 
 ## 💻 The Journey
 
-An acceleration program for developers by [Rocketseat](https://rocketseat.com.br/), focused on preparing complete professionals for the market, training technical and soft skills in an intensive and practical way.
+[Ignite](https://pages.rocketseat.com.br/ignite) is an acceleration program for developers by [Rocketseat](https://rocketseat.com.br/), focused on preparing complete professionals for the market, training technical and soft skills in an intensive and practical way.
 
 ## 🚀 Technologies
 

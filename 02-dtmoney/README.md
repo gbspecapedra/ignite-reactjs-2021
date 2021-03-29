@@ -3,9 +3,15 @@
 </h1>
 
 <p align="center">
-  <img alt="dtmoney" src="https://github.com/gisabernardess/ignite-reactjs/blob/main/02-dtmoney/.github/dtmoney.png">
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-how-to-use">How To Use</a>
 </p>
 
+<p align="center">
+  <img alt="dtmoney" src="https://github.com/gisabernardess/ignite-reactjs/blob/main/02-dtmoney/.github/dtmoney.png">
+</p>
 
 ## 💬 Project
 
@@ -23,11 +29,16 @@ Project developed with the following technologies:
 - [axios](https://github.com/axios/axios)
 - [MirageJS](https://miragejs.com/)
 
+## 🔖 Layout
+
+You can view the layout of the project in the [web](https://www.figma.com/file/sMfR4nwqNjY67u9O0vwCUo/dtmoney?node-id=1%3A147) version. You need to have a [Figma](https://www.figma.com/) account to access it.
+
 ## ℹ️ How To Use
 
-<p>To clone and run this application, you'll need <a href="https://git-scm.com" rel="nofollow">Git</a> and  <a href="https://legacy.yarnpkg.com" rel="nofollow">Yarn</a>. From your command line:</p>
-    <div class="highlight highlight-source-shell">
-      <pre><span class="pl-c"><span class="pl-c">#</span> Clone the repository</span>
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Yarn](https://legacy.yarnpkg.com). From your command line:
+
+<div class="highlight highlight-source-shell">
+<pre><span class="pl-c"><span class="pl-c">#</span> Clone the repository</span>
 $ git clone https://github.com/gisabernardess/ignite-reactjs.git <br/>
 <span class="pl-c"><span class="pl-c">#</span> Go into the directory</span>
 $ <span class="pl-c1">cd</span> 02-dtmoney <br/>
