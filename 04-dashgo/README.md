@@ -23,6 +23,8 @@ Project developed with the following technologies:
 - [Create Next App](https://nextjs.org/docs/api-reference/create-next-app)
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Chakra UI](https://chakra-ui.com/)
+- [ApexCharts.js](https://apexcharts.com/)
 
 ## ℹ️ How To Use
 
