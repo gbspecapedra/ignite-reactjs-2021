@@ -48,6 +48,7 @@ Challenges to put into practice what was learned in each module:
 3. [shopping cart](https://github.com/gisabernardess/shopping-cart)
 4. [refactoring](https://github.com/gisabernardess/refactoring)
 5. [spacetraveling](https://github.com/gisabernardess/spacetraveling)
+6. [worldtrip](https://github.com/gisabernardess/worldtrip)
 
 ## 📄 License
 
