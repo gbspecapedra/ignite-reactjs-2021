@@ -25,6 +25,8 @@ Project developed with the following technologies:
 - [TypeScript](https://www.typescriptlang.org/)
 - [Chakra UI](https://chakra-ui.com/)
 - [ApexCharts.js](https://apexcharts.com/)
+- [React Hook Form](https://react-hook-form.com/)
+- [Yup](https://github.com/jquense/yup)
 
 ## ℹ️ How To Use
 
