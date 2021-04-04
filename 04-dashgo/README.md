@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img alt="dashgo" src="/">
+  <img alt="dashgo" src="https://user-images.githubusercontent.com/17882257/113516633-b5357080-9551-11eb-968b-c6f965634096.gif">
 </p>
 
 ## 💬 Project
@@ -27,6 +27,7 @@ Project developed with the following technologies:
 - [ApexCharts.js](https://apexcharts.com/)
 - [React Hook Form](https://react-hook-form.com/)
 - [Yup](https://github.com/jquense/yup)
+
 
 ## ℹ️ How To Use
 
