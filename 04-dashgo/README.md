@@ -27,7 +27,8 @@ Project developed with the following technologies:
 - [ApexCharts.js](https://apexcharts.com/)
 - [React Hook Form](https://react-hook-form.com/)
 - [Yup](https://github.com/jquense/yup)
-
+- [Mirage JS](https://miragejs.com/)
+- [React Query](https://react-query.tanstack.com/)
 
 ## ℹ️ How To Use
 
