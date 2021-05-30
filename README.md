@@ -38,6 +38,7 @@ Projects developed with the main following technologies:
 - [First web application with ReactJS](https://github.com/gisabernardess/ignite-reactjs/tree/main/02-dtmoney)
 - [Next.js & JAMStack](https://github.com/gisabernardess/ignite-reactjs/tree/main/03-ignews)
 - [Building interfaces of the future](https://github.com/gisabernardess/ignite-reactjs/tree/main/04-dashgo)
+- [Authentication and authorization](https://github.com/gisabernardess/ignite-reactjs/tree/main/05-nextauth)
 
 ## 🧠 Challenges
 
