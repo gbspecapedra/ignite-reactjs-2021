@@ -50,6 +50,7 @@ Challenges to put into practice what was learned in each module:
 4. [refactoring](https://github.com/gisabernardess/refactoring)
 5. [spacetraveling](https://github.com/gisabernardess/spacetraveling)
 6. [worldtrip](https://github.com/gisabernardess/worldtrip)
+7. [image upload](https://github.com/gisabernardess/image-upload)
 
 ## 📄 License
 
