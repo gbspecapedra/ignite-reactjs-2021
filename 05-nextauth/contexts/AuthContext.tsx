@@ -3,7 +3,7 @@ import { destroyCookie, parseCookies, setCookie } from "nookies";
 import { createContext, ReactNode, useEffect, useState } from "react";
 import { api } from "../services/apiClient";
 
-type User = {
+export type User = {
   email: string;
   permissions: string[];
   roles: string[];
