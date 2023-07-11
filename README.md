@@ -1,5 +1,5 @@
 <h1 align="center">
-  Ignite Journey - ReactJS Trail
+  Ignite Journey - ReactJS 2021
 </h1>
 
 <p align="center">
